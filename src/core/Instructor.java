@@ -4,6 +4,8 @@
  */
 package core;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author sebas
